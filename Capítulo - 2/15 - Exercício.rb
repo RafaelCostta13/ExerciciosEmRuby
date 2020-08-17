@@ -1,11 +1,11 @@
 =begin
 	15 - O custo ao consumidor de um carro novo é a soma do preço de fábrica com o percentual
-		de lucro do dstribuidor e dos imposto aplicados ao preço de fábrica.
-		Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do 
-		distribuidor e o percentual de impostos. Calcule e mostre:
-			a) o valor correspondente ao lucro do distribuidor;
-			b) o valor correspondente aos impostos;
-			c) o preço final do veículo	
+	de lucro do dstribuidor e dos imposto aplicados ao preço de fábrica.
+	Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do 
+	distribuidor e o percentual de impostos. Calcule e mostre:
+		a) o valor correspondente ao lucro do distribuidor;
+		b) o valor correspondente aos impostos;
+		c) o preço final do veículo	
 =end
 
 puts "Informe o preço de fábrica do veículo :"
