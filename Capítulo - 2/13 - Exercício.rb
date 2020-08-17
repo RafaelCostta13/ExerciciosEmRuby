@@ -13,9 +13,9 @@
 puts "Informe a medida em pés :"
 pes = gets.to_f
 
-polegadas = pes * 12	#=> 1 pé = 12 polegadas
-jardas 	  = pes / 3		#=> 1 jarda = 3 pés
-milhas    = jardas / 1760
+polegadas = pes * 12		#=> 1 pé = 12 polegadas
+jardas 	  = pes / 3			#=> 1 jarda = 3 pés
+milhas    = jardas / 1760	#=> 1 milha = 1760 jardas
 
 puts "A quatidade de pés informados foi #{pes}, e o resultado da conversão para polegadas, jardas e milhas é :"
 puts "Polegadas = #{polegadas.to_f}"
