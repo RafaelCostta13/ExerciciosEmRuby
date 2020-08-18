@@ -5,7 +5,7 @@
 	zerado.
 =end
 
-CPMF = 0.038	#=> constante qcontendo o percentual do imposto CPMF 
+CPMF = 0.038	#=> constante contendo o percentual do imposto CPMF 
 
 puts "Informe o valor do depósito :"
 saldo_conta = gets.to_f
