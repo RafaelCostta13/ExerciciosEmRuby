@@ -16,3 +16,9 @@
 <p>Todos os algoritmos serão feitos para serem executados no terminal.</p>
 <p>No terminal dentro do diretório do programa a ser executado digite: ruby nome_do_exercicio.rb ou ruby caminho_para_o_exercicio</p>
 
+<h2>Considerações</h2>
+  <ol>
+    <li>Cada exercício resolvido é apenas uma forma de resolução! Mas sabemos que é possível resolver o mesmo problema de diferentes formas!</li>
+    <li>Esse projeto não busca resolver o exercício da forma mais eficiênte e sim resolver os problemas utilizando os vários mecanismos da linguagem Ruby.</li>
+  </ol>
+
