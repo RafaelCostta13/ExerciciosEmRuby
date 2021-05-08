@@ -3,7 +3,7 @@
 <p>No livro, os algoritmos que serão abordados, estão resolvidos nas linguagens PASCAL, C/C++ e Java. Dito isso, este projeto busca além de resolver os exercícios na liguangem Ruby, também ser uma fonte de treino. Principalmente para quem esta iniciando na linguagem Ruby.</p>
 
 <h2>Como está organizado</h2>
-<p>No livro cada capítulo há duas sessões de exercícios, "Exercícios Resolvidos" e "Exercícios Propostos", então esse prjeto está organizado da seguinte forma:</p>
+<p>No livro cada capítulo há duas sessões de exercícios, "Exercícios Resolvidos" e "Exercícios Propostos", então a estrutura dos diretórios do projeto está organizado da seguinte forma:</p>
 
 - ExerciciosEmRuby
 -   |--Capitulo n
