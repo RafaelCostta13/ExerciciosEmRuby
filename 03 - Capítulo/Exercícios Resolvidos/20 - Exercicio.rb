@@ -16,4 +16,4 @@ radiano = ang * Math::PI / 180
 
 tamanho_escada = altura_parede / Math::sin(radiano)
 
-puts tamanho_escada
+puts " A medida da escada é : #{tamanho_escada}"

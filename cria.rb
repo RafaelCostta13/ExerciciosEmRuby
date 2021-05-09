@@ -1,6 +1,6 @@
 nome = "Exercicio.rb"
 
-for i in 2..25
+for i in 1..25
   if i < 10 
     nome_file = '0' + i.to_s + ' - ' + nome
   else
