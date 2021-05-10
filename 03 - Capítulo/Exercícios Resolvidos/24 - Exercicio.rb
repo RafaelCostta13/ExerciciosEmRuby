@@ -10,10 +10,20 @@
 puts 'Informe a hora, OBS.: um número real'
 hora = gets.to_f
 
+#Obtem a parte inteira do valor informado
 parte_intera = hora.floor
-parte_frac = hora - parte_intera
-parte_frac = parte_frac.to_i * 100
-minutos = (parte_intera * 60) + parte_frac
 
-puts parte_frac
-puts " A hora informada - #{hora} Hrs convertida em minutos é : #{minutos} " 
+#Obtem a parte Fracionária do valor informado
+parte_frac = hora - parte_intera
+
+#Traforma a parte fracionária do número em minutos
+parte_frac = parte_frac * 100
+
+#Transforma em minutos a parte inteira
+minutos = (parte_intera * 60) 
+
+#soma as duas conversões
+minutos += parte_frac
+
+#Imprimi na tela o resultado
+puts " A hora informada - #{hora} Hrs convertida em minutos é : #{minutos}" 
