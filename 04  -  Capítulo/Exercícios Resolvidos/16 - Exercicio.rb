@@ -10,17 +10,20 @@
 
 	Faça um programa que receba o preço atual e a venda média mensal do produto, calcule e mostre o
 	novo preço.	
-
-	<tr>
-		<th>n1</th>
-		<th>n2</th>
-	</tr>
-
-	<tr>
-		<td>n1</td>
-		<td>n2</td>
-		<td>n2</td>
-		<td>n2</td>
-		<td>n2</td>
-	</tr>
 =end
+
+puts "Informe o preço atual do produto :"
+preco = gets.to_f
+puts "Informe a venda média mensal do produto :"
+venda_mensal = gets.to_i
+
+
+if venda_mensal < 500 && preco < 30
+	preco += preco * 0.1
+elsif venda_mensal >= 500 && venda_mensal < 1200 && preco >= 30 && preco <= 80
+	preco += preco * 0.15
+elsif venda_mensal >= 1200 && preco >= 80
+	preco -= preco * 0.20	
+end
+
+puts "O valor do produto é : R$ #{preco}"
