@@ -3,11 +3,11 @@
 	e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir.	
 	
 Codigo	cargo 			Percentual
-1       Escritorio		50%
-2				secretario		35%
-3				caixa					20%
-4				gerente				10%
-5				diretor			Nenhum aumento
+1		Escritorio		50%
+2		secretario		35%
+3		caixa					20%
+4		gerente				10%
+5		diretor			Nenhum aumento
 =end
 
 # Esolha da opção
