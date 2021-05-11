@@ -4,9 +4,9 @@
 	pelo menos um dos requisitos a seguir:
 
 	VALOR MÉDIA MENSAL	|	PREÇO ATUAL	|	%	DE AUMENTO	|	% DIMINUIÇÃO
-	< 500	|	< 30	|10%	|	-
-	>= 500 e < 1200	|	>= 30 e < 80	|	15	|	-
-	>= 1200	|	>= 80	|	-	|	20
+	< 500								|	< 30				|10%						|	-
+	>= 500 e < 1200			|	>= 30 e < 80|	15						|	-
+	>= 1200							|	>= 80				|	-							|	20
 
 	Faça um programa que receba o preço atual e a venda média mensal do produto, calcule e mostre o
 	novo preço.	
