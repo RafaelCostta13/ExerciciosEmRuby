@@ -10,4 +10,17 @@
 
 	Faça um programa que receba o preço atual e a venda média mensal do produto, calcule e mostre o
 	novo preço.	
+
+	<tr>
+		<th>n1</th>
+		<th>n2</th>
+	</tr>
+
+	<tr>
+		<td>n1</td>
+		<td>n2</td>
+		<td>n2</td>
+		<td>n2</td>
+		<td>n2</td>
+	</tr>
 =end
