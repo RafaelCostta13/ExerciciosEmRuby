@@ -37,7 +37,7 @@ for i in 1..5 do
 		# Soma os valores dos veiculos caso o número de veículos seja menor que 2 mil 
 		aux_acidentes += acidentes if veiculos < 2000
 		# soma um contador caso o número de veículos seja menor que 2 mil
-		cont_aux_acidentes += 1 if veiculos < 200
+		cont_aux_acidentes += 1 if veiculos < 2000
 	else
 		# Verifica se o valor informado é maior que o valor que já estava na variável
 		if acidentes > maior_indice
@@ -49,7 +49,7 @@ for i in 1..5 do
 		end
 		soma_acidentes += acidentes
 		aux_acidentes += acidentes if veiculos < 2000
-		cont_aux_acidentes += 1 if veiculos < 200
+		cont_aux_acidentes += 1 if veiculos < 2000
 	end
 end
 
