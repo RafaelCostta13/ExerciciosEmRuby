@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 05 - Capítulo 5 - Exercícios Propostos, página 120.
 
 puts "Informe o número de termos "
@@ -37,3 +38,6 @@ for i in 1..num_termos do
 end 
 
 puts s
+=======
+# 05 - Capítulo 5 - Exercícios Propostos, página 119.
+>>>>>>> a8ba923811e7aa09f3b55cb72f9e154360d37ef5
