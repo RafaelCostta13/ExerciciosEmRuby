@@ -3,8 +3,7 @@
 # declarando constante salario mínimo
 SAL_MINIMO = 100
 
-# Inicialixando variáveis
-classe = ''
+# Inicializando variáveis
 salario = 0
 total_pagamento = 0
 total_pecas = 0
@@ -18,7 +17,7 @@ aux_cod_maior_sal = 0
 # Inicio do loop
 15.times do
 	# Entrada de dados
-	puts 'Informe o npumero do operário'
+	puts 'Informe o número do operário'
 	num_operario = gets.to_i
 	puts "Informe o número de peças fabricadas no mês"
 	qtd_pecas = gets.to_i
